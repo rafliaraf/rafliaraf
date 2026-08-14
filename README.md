@@ -7,7 +7,7 @@ I'm an Information Systems student with a strong foundation in **Visual Communic
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Information Systems Student at Universitas Teknologi Digital Indonesia (UTDI) | Alum of SMKN 3 Tasikmalaya (DKV)
+- 🎓 **Education:** Information Systems Student at Universitas Teknologi Digital Indonesia (UTDI)
 - 💼 **Experience:** Former Graphic & Clothing Designer in e-commerce, specialized in product design, digital mockups, and visual branding.
 - 🎯 **Current Focus:** Web Development (TypeScript/Frontend), Database Systems (NoSQL & Graph DBs), and AI Prompt Engineering.
 - 💼 **LinkedIn:** [linkedin.com/in/muhammadrafliaoliaa](https://www.linkedin.com/in/muhammadrafliaoliaa)
