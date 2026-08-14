@@ -8,12 +8,12 @@
 
 ---
 
-### 🌐 Socials:
+### 📊 GitHub Stats:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/arafprsn) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadrafliaoliaa) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/apasicyl) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrafli0876@gmail.com)
+![](https://github-readme-stats.shion.dev/api?username=rafliaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafliaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 
@@ -39,12 +39,12 @@
 </p>
 
 ---
+### 🌐 Socials:
 
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=rafliaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafliaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/arafprsn) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadrafliaoliaa) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/apasicyl) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrafli0876@gmail.com)
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
