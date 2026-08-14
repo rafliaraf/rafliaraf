@@ -19,6 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
 </p>
 
-<p align="center">
+  
   <img src="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" width="100%" alt="Galaga Contribution Graph" />
 </p>
