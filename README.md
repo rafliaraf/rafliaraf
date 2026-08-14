@@ -47,18 +47,15 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=rafliaraf&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=rafliaraf&theme=tokyonight&layout=compact" width="48%" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=rafliaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafliaraf&theme=tokyonight" width="97%" />
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafliaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafliaraf&color=cyan&style=flat-square" alt="Profile Views" />
-</p>
+
+
+---
+
+[![](https://komarev.com/ghpvc/?username=rafliaraf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
