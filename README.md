@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/muhammadrafliaoliaa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="arafprsn" target="_blank">
+  <a href="[arafprsn](https://discord.com/channels/@arafprsn)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="muhammadrafli0876@gmail.com" target="_blank">
