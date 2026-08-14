@@ -47,8 +47,6 @@
 
 ### 📊 GitHub Stats:
 
-### 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafliaraf&theme=tokyonight&show_icons=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliaraf&theme=tokyonight&layout=compact" width="48%" />
