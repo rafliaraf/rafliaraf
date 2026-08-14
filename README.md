@@ -47,23 +47,13 @@
 
 ### 📊 GitHub Stats:
 
+### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=rafliaraf&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=rafliaraf&theme=tokyonight&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafliaraf&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliaraf&theme=tokyonight&layout=compact" width="48%" />
 </p>
 
 <p align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph.svg?game=galaga">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" width="100%" />
 </p>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-
