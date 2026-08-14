@@ -1,6 +1,3 @@
-# Hi there, I'm Muhammad Rafli Aolia Ansori 👋
-### Information Systems Student | Web Development & UI Design Enthusiast
-
 ### 🚀 About Me
 
 - 🔭 **I’m currently working on:** Personal Portfolio & Web Projects
