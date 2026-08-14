@@ -19,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
 </p>
 
+<a href="https://github.com/m-akbarfauzi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafliaraf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafliaraf&layout=compact&langs_count=8&theme=algolia"/>
+</a>
   
   <img src="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph-dark.svg?game=galaga" width="100%" alt="Galaga Contribution Graph" />
 </p>
