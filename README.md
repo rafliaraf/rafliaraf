@@ -1,3 +1,8 @@
+# Hi there, I'm Muhammad Rafli Aolia Ansori 👋
+### Information Systems Student | Web Development & UI Design Enthusiast
+
+---
+
 ### 🚀 About Me:
 
 - 🔭 **I’m currently working on:** Personal Portfolio & Web Projects
@@ -8,12 +13,12 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 🌐 Socials:
 
-![](https://github-readme-stats.shion.dev/api?username=rafliaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafliaraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/arafprsn) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadrafliaoliaa) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/apasicyl) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrafli0876@gmail.com)
 
 ---
 
@@ -39,12 +44,21 @@
 </p>
 
 ---
-### 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/arafprsn) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadrafliaoliaa) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/apasicyl) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrafli0876@gmail.com)
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=rafliaraf&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=rafliaraf&theme=tokyonight&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph.svg?game=galaga">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph.svg?game=galaga" width="100%">
+  </picture>
+</p>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafliaraf/rafliaraf/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
