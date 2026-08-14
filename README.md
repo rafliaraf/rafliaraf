@@ -1,4 +1,4 @@
-# About Me:
+# 🚀 About Me:
 Personal Portfolio & Web Projects<br>Frontend Web Development & UI Design Projects<br>Next.js, TypeScript, and Advanced Databases<br>Web Dev, UI Design (Figma & CorelDRAW), and Databases<br>I combine clean visual design with solid backend logic.
 
 
