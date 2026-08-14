@@ -45,10 +45,17 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafliaraf&theme=dark&show_icons=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliaraf&theme=dark&layout=compact" width="48%" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafliaraf&theme=tokyonight&show_icons=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliaraf&theme=tokyonight&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=rafliaraf&theme=dark" width="97%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafliaraf&color=cyan&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
