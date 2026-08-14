@@ -18,12 +18,6 @@ Information Systems student passionate about Web Development, UI Design, and Dat
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafliaraf&show_icons=true&theme=tokyonight" alt="Rafli's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliaraf&layout=compact&theme=tokyonight" alt="Top Languages" width="47%" />
-</p>
 
 ### 📈 GitHub Activity Graph
 
