@@ -21,10 +21,9 @@ Information Systems student passionate about Web Development, UI Design, and Dat
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafliaraf&show_icons=true&theme=dark&hide_border=true" alt="Rafli's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafliaraf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafliaraf&theme=tokyo-night&hide_border=true" alt="Rafli's GitHub Activity Graph" width="100%" />
 </p>
+
 ---
 
 ### 📫 Find Me Online
