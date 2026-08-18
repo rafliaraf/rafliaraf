@@ -1,6 +1,6 @@
 ### 🚀 About Me
 
-- 🔭 **I’m currently working on:** Personal Portfolio & Web Projects
+- 🔭 **I’m currently working on:** Personal Portofolio & Web Projects
 - 👯 **I’m looking to collaborate on:** Frontend Web Development & UI Design Projects
 - 🌱 **I’m currently learning:** Next.js, TypeScript, and Advanced Databases
 - 💬 **Ask me about:** Web Dev, UI Design (Figma & CorelDRAW), and Databases
